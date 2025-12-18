@@ -1,11 +1,6 @@
 <div align="left">
   
   <h1>정대균 (Jung Daegyun)<h1>
-  
-  <p>
-    <b>Back-end Developer</b><br>
-    <i></i>
-  </p>
 
   <!-- 연락처/블로그 -->
   <a href="mailto:jdk829355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
