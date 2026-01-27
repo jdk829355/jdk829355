@@ -40,10 +40,6 @@
 <!-- 인프라 -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-<h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=jdk829355&show_icons=true&theme=gotham" alt="jdk829355's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdk829355&layout=compact&theme=gotham&hide=html,css" alt="Top Languages" />
-
 ### Email & Blog
 <!-- 연락처/블로그 -->
 <a href="mailto:jdk829355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
