@@ -27,6 +27,6 @@
 ---
   
   
-[![Pinned Signal profile widget](https://pinnedsignal.site/api/widget/cmp9pde5f0000kq82azw3eos2?theme=light)](https://pinnedsignal.site/report/cmp9pde5f0000kq82azw3eos2)
+[![Pinned Signal profile widget](https://pinnedsignal.site/api/widget/cmp9pzkgk0000nu3qlqjvrnzo?theme=dark)](https://pinnedsignal.site/report/cmp9pzkgk0000nu3qlqjvrnzo)
 </div>
 
