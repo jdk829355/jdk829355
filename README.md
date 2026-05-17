@@ -24,3 +24,5 @@
 | KHUDA 3기 | 2023.03 ~ 2023.06 | 머신러닝 기초 및 NLP 학습 |
 
 </div>
+
+[![Pinned Signal profile widget](https://pinnedsignal.site/api/widget/cmp9o8k0n000010zogjbsdh3j)](https://pinnedsignal.site/report/cmp9o8k0n000010zogjbsdh3j)
