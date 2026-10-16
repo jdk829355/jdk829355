@@ -23,7 +23,7 @@
 | GDGoC 2기 | 2025.09 ~ 2025.12 | GCP / Go 스터디 및 Cloud Run 기반 서비스 배포 |
 | KHUDA 3기 | 2023.03 ~ 2023.06 | 머신러닝 기초 및 NLP 학습 |
 
-[![Pinned Signal profile widget](https://pinnedsignal.site/api/widget/4534e3ae-257f-44f0-a2d5-a4b4639b8547?theme=light)](https://pinnedsignal.site/report/4534e3ae-257f-44f0-a2d5-a4b4639b8547)
+[![Pinned Signal profile widget](https://pinnedsignal.site/api/widget/29730da8-0681-488b-961f-ba18b8d0bf93?theme=light)](https://pinnedsignal.site/report/29730da8-0681-488b-961f-ba18b8d0bf93)
 
 </div>
 
