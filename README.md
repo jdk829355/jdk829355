@@ -25,7 +25,7 @@
 
 <br><br>
 
-[![Pinned Signal profile widget](https://pinnedsignal.site/api/widget/42d27526-8c1a-4f68-9253-fdbb91ff6c48?theme=light)](https://pinnedsignal.site/report/42d27526-8c1a-4f68-9253-fdbb91ff6c48)
+[![Pinned Signal profile widget](https://pinnedsignal.site/api/widget/user/jdk829355?theme=light)](https://pinnedsignal.site/report/user/jdk829355)
 
 </div>
 
