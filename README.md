@@ -23,7 +23,7 @@
 | GDGoC 2기 | 2025.09 ~ 2025.12 | GCP / Go 스터디 및 Cloud Run 기반 서비스 배포 |
 | KHUDA 3기 | 2023.03 ~ 2023.06 | 머신러닝 기초 및 NLP 학습 |
 
-### More..
+### Resume
 [my resume](https://resume.jdk829355.me)
 
 <br><br>
